@@ -23,7 +23,7 @@
     <distributionManagement>
         <repository>
             <id>practice-parent</id>
-            <name>GitHub OWNER Apache Maven Packages</name>
+            <name>Gar1s</name>
             <url>https://maven.pkg.github.com/Gar1s/practice-parent</url>
         </repository>
     </distributionManagement>

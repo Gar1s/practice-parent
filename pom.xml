@@ -23,8 +23,8 @@
     <distributionManagement>
         <repository>
             <id>practice-parent</id>
-            <name>Gar1s</name>
-            <url>https://maven.pkg.github.com/Gar1s/practice-parent</url>
+            <name>gar1s</name>
+            <url>https://maven.pkg.github.com/gar1s/practice-parent</url>
         </repository>
     </distributionManagement>
 

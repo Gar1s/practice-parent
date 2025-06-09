@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.practice</groupId>
     <artifactId>practice-parent</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>practice-parent</name>
     <description>practice-parent</description>
 
@@ -22,8 +22,8 @@
     <distributionManagement>
         <repository>
             <id>practice-parent</id>
-            <name>gar1s</name>
-            <url>https://maven.pkg.github.com/gar1s/practice-parent</url>
+            <name>Gar1s</name>
+            <url>https://maven.pkg.github.com/Gar1s/practice-parent</url>
         </repository>
     </distributionManagement>
 
